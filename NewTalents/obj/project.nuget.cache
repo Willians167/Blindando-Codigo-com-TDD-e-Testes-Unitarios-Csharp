@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SlU+X0U/ZdeshZvbnxbFzFTNzmXcUBmrXquBi+W1XJUgMVON3fCyABxBgSgdDQJ01jB4l0L36v94+DFz2UHR5w==",
+  "success": true,
+  "projectFilePath": "A:\\Projetos\\Projeto-TDD\\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\\NewTalents\\NewTalents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

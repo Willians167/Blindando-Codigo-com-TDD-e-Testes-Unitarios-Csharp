@@ -1,0 +1,13 @@
+A:\Projetos\Projeto-TDD\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.exe
+A:\Projetos\Projeto-TDD\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+A:\Projetos\Projeto-TDD\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+A:\Projetos\Projeto-TDD\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+A:\Projetos\Projeto-TDD\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.dll
+A:\Projetos\Projeto-TDD\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+A:\Projetos\Projeto-TDD\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projetos\Projeto-TDD\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+A:\Projetos\Projeto-TDD\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+A:\Projetos\Projeto-TDD\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+A:\Projetos\Projeto-TDD\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.dll
+A:\Projetos\Projeto-TDD\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+A:\Projetos\Projeto-TDD\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache

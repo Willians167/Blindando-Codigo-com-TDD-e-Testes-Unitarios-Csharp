@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Projetos\\Projeto-TDD\\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\\NewTalents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{626A25EC-4116-4DFE-AEA0-333CA496F115}|NewTalents.csproj|a:\\projetos\\projeto-tdd\\-blindando-seu-c-digo-com-tdd-e-testes-unit-rios-c-\\newtalents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626A25EC-4116-4DFE-AEA0-333CA496F115}|NewTalents.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626A25EC-4116-4DFE-AEA0-333CA496F115}|NewTalents.csproj|a:\\projetos\\projeto-tdd\\-blindando-seu-c-digo-com-tdd-e-testes-unit-rios-c-\\newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626A25EC-4116-4DFE-AEA0-333CA496F115}|NewTalents.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C60D109-AD7D-4D65-8142-AE206FFE4FC3}|..\\TestNewTalents\\TestNewTalents.csproj|a:\\projetos\\projeto-tdd\\-blindando-seu-c-digo-com-tdd-e-testes-unit-rios-c-\\testnewtalents\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "A:\\Projetos\\Projeto-TDD\\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\\TestNewTalents\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestNewTalents\\UnitTest1.cs",
+              "ToolTip": "A:\\Projetos\\Projeto-TDD\\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\\TestNewTalents\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestNewTalents\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:52:12.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "A:\\Projetos\\Projeto-TDD\\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\\NewTalents\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "A:\\Projetos\\Projeto-TDD\\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\\NewTalents\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:03:16.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Projetos\\Projeto-TDD\\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\\NewTalents\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\Projetos\\Projeto-TDD\\-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-C-\\NewTalents\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:45:04.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
