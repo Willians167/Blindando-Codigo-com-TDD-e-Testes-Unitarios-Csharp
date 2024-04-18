@@ -1,6 +1,4 @@
-Claro! Aqui está um exemplo de README para um projeto de TDD e Testes Unitários em C# para uma calculadora:
 
----
 
 # Calculadora - Desenvolvimento Orientado a Testes (TDD) e Testes Unitários em C#
 
